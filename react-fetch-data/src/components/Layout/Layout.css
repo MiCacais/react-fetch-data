@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.Content {
+    margin-top: 16px;
+    width: 810px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.banner {
+    background-color: #0f0f0f;
+}
+
+.Logo {
+    display: block;
+    margin: 0 auto;
+}
