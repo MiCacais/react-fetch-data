@@ -5,10 +5,10 @@ I used the amazing React Facebook library, axios and React Router. Also, I used 
 
 To use it, you only need to download this project and inside of the folder, and type the following command: `npm install` and after `npm start`. The application should open automaticaly. If it doesn't, just open the browser and type: `localhost:3000`.
 
-##Sample of the first page
+## Sample of the first page
 
 ![Screenshot](react-app-1.png)
 
-##Sample of the details page
+## Sample of the details page
 
 ![Screenshot](react-app-2.png)
